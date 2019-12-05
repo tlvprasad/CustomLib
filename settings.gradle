@@ -1,0 +1,2 @@
+include ':app', ':customlib'
+rootProject.name='Custom Dependency'
